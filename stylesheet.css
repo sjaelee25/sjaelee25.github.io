@@ -196,3 +196,8 @@ h2 {
   font-weight: 700;
   color: var(--text);
 }
+
+.my-name {
+  color: #1772d0;
+  font-weight: 400;
+}
